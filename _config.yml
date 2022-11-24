@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "YoungJin github Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "YOUNG JIN"
 description              : "An amazing website."
 url                      : "https://YoungJin04.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -36,7 +36,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+    # https://www.facebook.com/profile.php?id=100011483790959
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
