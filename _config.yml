@@ -106,9 +106,8 @@ analytics:
 author:
   name             : "김영진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "문정동 사는 **19세** 
-                       그의 작은 블로그"
-  location         : "Korea, SEOUL"
+  bio              : "대한민국 흔한 19살 청소년"
+  location         : "KOREA"
   email            :
   links:
     - label: "Email"
